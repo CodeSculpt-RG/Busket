@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Busket",
+    "slug": "busket",
+    "scheme": "busket",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.busket.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.busket.app"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "enabled": false,
+      "checkAutomatically": "NEVER"
+    },
+    "plugins": [
+      "expo-video",
+      "expo-secure-store"
+    ]
+  }
+}
